@@ -1,0 +1,15 @@
+site_name: Lucas Mariano
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: red
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
