@@ -36,4 +36,12 @@ I also master the following tools:
 - Starllete (in progress);
 - Kubernetes (in progress);
 
-##
+## <span style="color:red"> 3. Academic education </span>
+
+<strong> ETEC from Ilha Solteira | High School:</strong>
+
+- Along with technical education - Computer Technician (2017 - 2019)
+
+<strong> Descomplica | graduation in progress:</strong>
+
+- [Higher Technology Course (HST)](https://descomplica.com.br/faculdade/tecnologia/computacao-em-nuvem/)
