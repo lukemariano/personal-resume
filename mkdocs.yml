@@ -3,6 +3,8 @@ site_name: Resume - Lucas Mariano
 theme:
   name: material
   logo: assets/profile.png
+  font:
+    text: Hanken Grotesk
   palette:
     - scheme: default
       primary: red

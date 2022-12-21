@@ -1,4 +1,4 @@
-# <span style="color:black"><strong> Welcome, this is my resume 😃 </strong></span>
+# <span style="color:black"><strong> Welcome, this is my resume </strong></span>
 
 ## <span style="color:red"> 1. A little about myself </span>
 
@@ -47,13 +47,13 @@ I also master the following tools:
 
 ## <span style="color:red"> 3. Academic education </span>
 
-<strong> ETEC from Ilha Solteira | High School:</strong>
+<strong> ETEC from Ilha Solteira | High School llong with technical education:</strong>
 
-- Along with technical education - Computer Technician (2017 - 2019)
+- Computer Technician (2017 - 2019)
 
-<strong> Descomplica | graduation in progress:</strong>
+<strong> Descomplica | Cloud Computing: </strong>
 
-- [Higher Technology Course (HST)](https://descomplica.com.br/faculdade/tecnologia/computacao-em-nuvem/)
+- [Higher Technology Course (HST)](https://descomplica.com.br/faculdade/tecnologia/computacao-em-nuvem/) - graduation in progress
 
 ## <span style="color:red"> 4. What I am able to do: </span>
 * Data cleaning and processing;
@@ -64,4 +64,8 @@ I also master the following tools:
 
 ## <span style="color:red"> 5. About the Busertech program:</span>
 
-In April 2022, I participated in a selection process by the company Buser to participate in a fullstack developer training program, along with business and academic experience. Among the 5 thousand people who participated in the selection process, I was one of the 40 selected. And it has been an amazing experience!
+At the end of 2021, I participated in a selection process by the company Buser regarding a [program to train fullstack developers.](https://blog.buser.com.br/novidades/buser-lanca-programa-capacitacao-profissionais-tecnologia/)
+
+The program's objective is to combine academic knowledge with learning that is obtained on a day-to-day basis as a developer in the company, hands-on. With BuserTech, theory and practice will be aligned from the beginning.
+
+After a rigorous selection process with more than 5,000 candidates, I was among the 40 selected and I have been in the program for 9 months, working especially in the data science area, solving real problems on a daily basis, delivering results and contributing to the development of the company. It has been an amazing experience!
