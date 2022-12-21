@@ -3,7 +3,6 @@ site_name: Resume - Lucas Mariano
 theme:
   name: material
   logo: assets/profile.png
-  favicon: assets/profile.png
   palette:
     - scheme: default
       primary: red

@@ -2,6 +2,15 @@
 
 ## <span style="color:red"> 1. A little about myself </span>
 
+> “We’re here to put a dent in the universe. Otherwise why else even be here?” - Steve Jobs
+
+Hello👋, my name is Lucas Mariano da Silva and I'm 20 years old.
+
+The quote above describes well one of my main motivations, which is related to being able to one day be part of a big project and be able to leave my mark on the world.
+
+This means that I consider myself a person who really likes challenges (and pizza). I like the feeling of always being on the move, learning new things, traveling to different places and making new friends. After all, to live is to be on the move🧗🏽
+ 
+## <span style="color:red"> 1.1 My first contact with technology 👨‍💻 </span>
 I have been passionate about programming since I was 15 years old. I remember how fun it was to write my first "Hello World!" in java.
 
 I could spend hours and hours in front of the computer 💻 without even seeing time pass.
