@@ -57,7 +57,7 @@ I also master the following tools:
 
 ## <span style="color:red"> 3. Academic education </span>
 
-<strong> ETEC from Ilha Solteira | High School llong with technical education:</strong>
+<strong> ETEC from Ilha Solteira | Secondary education with technical education: </strong>
 
 - Computer Technician (2017 - 2019)
 
