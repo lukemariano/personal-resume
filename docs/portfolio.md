@@ -40,7 +40,7 @@
 
 ![Buser - App Screen](./assets/gameoflife-luke.png)
 
-## 6. Supervised machine learning algorithm with simple linear regression model
+## <span style="color:red"> 6. Supervised machine learning algorithm with simple linear regression model </span>
 
 ### <strong> Notation: </strong>
 
@@ -62,7 +62,7 @@
 
 - [Web Scraping - Python](https://github.com/lukemariano/web-scraping);
 - [Training Pandas](https://github.com/lukemariano/-I-love-pandas);
-- [Training Javascript - Parte 1](https://github.com/lukemariano/origamid-js-exercices)
-- [Training Javascript - Parte 2](https://github.com/lukemariano/javascript-exercices)
-- [Final Project Django CS50 Harvard](https://github.com/lukemariano/Flights)
-- [List of Python Brazil exercises](https://github.com/lukemariano/lista-de-exercicios-python-brasil)
+- [Training Javascript - Parte 1](https://github.com/lukemariano/origamid-js-exercices);
+- [Training Javascript - Parte 2](https://github.com/lukemariano/javascript-exercices);
+- [Final Project Django CS50 Harvard](https://github.com/lukemariano/Flights);
+- [List of Python Brazil exercises](https://github.com/lukemariano/lista-de-exercicios-python-brasil);

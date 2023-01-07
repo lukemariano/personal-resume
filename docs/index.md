@@ -39,7 +39,7 @@ Currently I have focused more and more on developing skills related to data scie
 However, I also have programming skills using the following programming languages, markup languages ​​and frameworks:
 
 - Javascript;
-- Vuejs(Components);
+- Vuejs;
 - HTML/CSS;
 - Django;
 
